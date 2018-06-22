@@ -1,0 +1,87 @@
+﻿
+
+
+*{ margin:0; padding:0; font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;}
+.clear{ clear:both;}
+.center{ text-align:center;}
+.fl{ float:left;}
+.fr{ float:right;}
+img{ border:none;}
+a{ text-decoration:none;}
+li{ list-style-type:none;}
+body{ background:url(../images/bj.jpg) top center fixed no-repeat;}
+
+.contain{ width:1000px; padding:20px; height:auto; margin:10px auto; background:#fff; -moz-border-radius:5px;border-radius:5px;}
+
+header{ width:1000px; height:auto; margin:auto;}
+
+.logo{ width:350px; height:60px; float:left;}
+.logo h1{ font-size:28px; line-height:60px; color:#288dd7; font-family:Arial, Helvetica, sans-serif;}
+
+nav{ width:640px; height:40px; margin-top:10px; float:right;background-color:#2572ac;-moz-border-radius:5px;border-radius:5px;}
+nav ul{ padding-left:10px;}
+nav li{ float:left; padding:5px 20px; }
+nav li a{ font-size:20px; line-height:30px; color:#fff;}
+nav li a:hover{ color:#fff; text-decoration:none;}
+nav li:hover{background-color:#84a360;}
+
+.Team{width:880px; height:auto; padding:10px; margin:10px auto; border:1px dotted #ccc;}
+.Teaml{ width:380px; float:left;}
+.Teaml img{ width:380px;}
+.Teamr{ width:380px; float:right;}
+.Teamr h3{font-size:22px; line-height:46px; color:#288dd7;}
+.Teamr p{font-size:16px; line-height:36px; color:#333; padding-top:30px;}
+
+
+.banner{ width:1000px; height:200px; margin:5px auto;-moz-border-radius:5px;border-radius:5px;}
+.banner h1{ font-size:50px; line-height:60px; color:#288dd7; font-family:Arial, Helvetica, sans-serif; text-align:center; margin-top:-130PX; text-shadow:1px 1px #FF9900;}
+.banner h2{ font-size:18px; line-height:60px; color:#288dd7; font-family:Arial, Helvetica, sans-serif; text-align:right; margin-top:-110PX; text-shadow:1px 1px #FF9900;}
+
+.Pets{ width:980px; height:auto; padding:10px; margin:10px auto; font-size:14px; line-height:24px; color:#555; background:#f1f1f1;}
+.Pets h2{font-size:22px; line-height:46px; color:#288dd7;}
+.Pets h2 a{font-size:22px; line-height:46px; color:#288dd7;}
+.Pets p{font-size:15px; line-height:32px; color:#555;}
+.Pets p strong{font-size:16px; line-height:36px; color:#567c29;}
+.Pets p a{ color:#333;}
+
+.Pets_list{ width:1000px; height:auto; margin:10px auto; }
+.Pets_list li{ width:310px;height:auto; float:left; margin:5px; }
+.Pets_list li:hover{}
+.Pets_list li img{ width:310px;height:250px;}
+.Pets_list p{font-size:14px; line-height:25px; color:#333; text-align:center;}
+.Pets_list h3{font-size:16px; line-height:36px; color:#567c29; text-align:center;}
+
+.Products{width:980px; height:auto; margin:5px auto;background:#fff;}
+.Products_left{width:480px; height:auto; float:left;}
+.Products_right{width:480px; height:auto; float:right;}
+.Productsdiv{width:480px; height:auto; float:left; margin:5px;}
+.Productsdivl{ width:280px; float:left;}
+.Productsdivl img{ width:280px;}
+.Productsdivr{ width:180px; float:right;}
+.Productsdivr p{font-size:16px; line-height:36px; color:#333; padding-top:30px;}
+.Products_title{ width:480px;float:left; height:50px; margin:10px auto; background:#2572ac; font-size:24px; line-height:50px; color:#fff; text-align:center;}
+.Products_title h2{font-size:24px; line-height:50px; color:#fff;}
+
+.contact_us{ width:1000px; height:auto; margin:10px auto; }
+.contact_us li{ width:310px;height:auto; float:left; margin:5px; }
+.contact_us p{font-size:14px; line-height:25px; color:#333; text-align:left;}
+.contact_us h3{font-size:16px; line-height:36px; color:#567c29; text-align:left;}
+
+footer{ width:1000px; height:50px; margin:10px auto; padding-top:10px; border-top:2px  dotted #288dd7; text-align:center; font-size:14px; line-height:24px; color:#666;}
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
